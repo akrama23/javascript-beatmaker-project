@@ -1,2 +1,2 @@
-# javascript-practice-beatmaker-project
+# javascript-beatmaker-project
 Beatmaker
